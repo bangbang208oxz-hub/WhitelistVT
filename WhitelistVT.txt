@@ -6,5 +6,13 @@
     "roblox": "KImura_BLACK",
     "rules": "บล่าๆ",
     "nickname": "KImura_BLACK • [KImura_BLACK • ["
+  },
+  "1452131003702317193": {
+    "name_ic": "Jaokhun shark",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "BzDSJnWpuwE",
+    "rules": "กฎพื้นฐานRoleplay \nคือ การสวมบทบาทเป็นตัวละครหนึ่งในประเทศ โดยยึดหลักความสมจริงเหมือนชีวิตจริง ตัวละครจะต้องมีความกลัว ความคิด อารมณ์ และการตัดสินใจแบบมนุษย์ทั่วไป ไม่ใช่ฮีโร่หรือไร้ความรู้สึก",
+    "nickname": "Jaokhun shark"
   }
 }
