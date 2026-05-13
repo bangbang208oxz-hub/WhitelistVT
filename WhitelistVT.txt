@@ -22,5 +22,13 @@
     "roblox": "Tyburski83720",
     "rules": "DM = การทำร้ายยิงหรือเริ่มสตอรี่โดยไม่มีเหตุผล",
     "nickname": "Edward Calorie"
+  },
+  "915965371931058206": {
+    "name_ic": "Superkarn SornReuan",
+    "age": "18",
+    "gender": "ชาย",
+    "roblox": "Ssuppakarn1122",
+    "rules": "PG การกระทำที่เหนือมนุษย์",
+    "nickname": "Superkarn SornReuan"
   }
 }
