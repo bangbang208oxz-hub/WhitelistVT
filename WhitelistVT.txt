@@ -46,5 +46,13 @@
     "roblox": "RiderSkullDa",
     "rules": "[PG]\nการกระทำเกินจริงที่มนุษย์ปกติทำไม่ได้",
     "nickname": "Reflex"
+  },
+  "1392877970028232765": {
+    "name_ic": "DiueyDiuey  Natsumi",
+    "age": "12",
+    "gender": "woman",
+    "roblox": "DzZone_453061",
+    "rules": "Metagaming [MG]\nการนำข้อมูลจากนอกบทบาทมาใช้ในบทบาท เช่น ดูสตรีม ดู Discord หรือฟังเพื่อนบอกตำแหน่งแล้วนำมาใช้ในเกม ถือว่าผิดกฎ",
+    "nickname": "DiueyDiuey  Natsumi"
   }
 }
